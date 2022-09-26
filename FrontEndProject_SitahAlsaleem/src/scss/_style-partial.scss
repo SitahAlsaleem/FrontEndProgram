@@ -36,7 +36,7 @@ background: linear-gradient(to bottom,#4A99D3 -100.57%, rgba(74, 153, 211, 0) 35
 
     width: 100%;
     height: 768px;
-    left: 245px;
+  //  left: 250px;
     margin-top: 240px;
     margin-bottom: 240px;
     background: #FFFFFF;
@@ -46,29 +46,26 @@ background: linear-gradient(to bottom,#4A99D3 -100.57%, rgba(74, 153, 211, 0) 35
 }
 .corner-effect-img{
     position: absolute;
-    float:left;
-    margin-right: 15%;
-   margin-left: 75%;
-    margin-top: -3.5%;
+    float:right;
+  //  margin-right: 15%;
+  margin-left: 1750px;
+    margin-top: -60px;
     z-index: -1;
 }
 
 p{
 position: absolute;
-width: 160px;
 height: 25px;
-left: 880px;
 top: 80px;
 font-style: normal;
 font-weight: 700;
-font-size: 25px;
+font-size: 35px;
 text-align: center;
-/* identical to box height */
-letter-spacing: 0.04em;
 padding-bottom: 10px;
 border-bottom: 3px solid #4A99D3;
 line-height: 1px;
 color: #4A99D3;
+margin-left: 450px;
 }
 .Section-forms{
     padding-top: 15%;
@@ -78,7 +75,7 @@ color: #4A99D3;
 
 .name-text{
     position:absolute; 
-    top: 35.9%;
+    top: 29.9%;
     font-size: 16px;
     background-color: white;
 }
